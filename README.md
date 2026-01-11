@@ -1,3 +1,3 @@
-Name: Tanner Bergstrom\n
-UID: u1383578\n
+Name: Tanner Bergstrom
+UID: u1383578
 Github Username: TannerBergstrom
